@@ -9,7 +9,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
   - [About](https://github.com/hayley-boll/Portfolio/blob/main/README.md#about)
   - [Portfolio Projects](https://github.com/hayley-boll/Portfolio/blob/main/README.md#portfolio-projects)
-      - Contractor Management
+      - [Contractor Management Power BI](https://github.com/hayley-boll/Portfolio/blob/main/README.md#contractor-management-power-bi)
       - Cost Reporting
       - Adoption Usage Report
   - [Work Experience](https://github.com/hayley-boll/Portfolio/blob/main/README.md#work-experience)
@@ -19,6 +19,18 @@ This is a repository to showcase skills, share projects and track my progress in
   - [Contact](https://github.com/hayley-boll/Portfolio/blob/main/README.md#contact) 
 
 ## Portfolio Projects
+### Contractor Management Power BI
+**Goal:** Visualize contractor metrics to manage the three main levers of cost. 
+
+1. Headcount
+    
+2. Overtime %
+    
+3. Crew Mix / Class Ratio
+
+### Cost Reporting Power BI
+### Adoption Usage Report
+### Labor Rate Workbench
 ## Work Experience
 ### Sr Data Analyst | Procurement Analytics
   **Responsibilities:** Manage Power BI semantic models, write SQL to extract data
