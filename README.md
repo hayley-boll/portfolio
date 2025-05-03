@@ -42,5 +42,10 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Education
 ## Certifications 
+Power BI Data Analyst (PL-300) | [credential](https://learn.microsoft.com/api/credentials/share/en-us/HayleyBoll-3311/8658F20DEE1090EC?sharingId=930A40816E83E437)
 ## Achievements
 ## Contact
+LinkedIn: [hayleyboll](www.linkedin.com/in/hayleyboll)
+
+Email: hales.boll@gmail.com
+
