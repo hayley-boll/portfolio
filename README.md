@@ -19,13 +19,12 @@ This is a repository to showcase skills, share projects and track my progress in
   - [Contact](https://github.com/hayley-boll/Portfolio/blob/main/README.md#contact) 
 
 ## Portfolio Projects
-### Contractor Management Power BI
+These project are based on a real-world scenarios. All data has been anonymized or recreated to protect confidentiality.
+1. Contractor Management Power BI
+2. Cost Reporting Power BI
 **Goal:** Visualize contractor metrics to manage the three main levers of cost. 
-
 1. Headcount
-    
 2. Overtime %
-    
 3. Crew Mix / Class Ratio
 
 ### Cost Reporting Power BI
