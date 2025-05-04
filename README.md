@@ -28,12 +28,12 @@ These projects are based on real-world scenarios. All data has been anonymized o
 
 ## Work Experience
 **Sr Data Analyst | Procurement Analytics**  
-Responsibilities: Maintain department's Power BI workspace and app, manage write SQL to extract data
+Maintain department's Power BI workspace and app, manage write SQL to extract data
 
-### Category Analyst | Strategic Sourcing
-### Rotational Development Associate | Renewables
-### Rotational Development Associate | Internal Audit
-### Rotational Development Associate | Procurement
+**Category** *(Data)* **Analyst | Strategic Sourcing**  
+**Rotational Development Associate | Renewables**  
+**Rotational Development Associate | Internal Audit**  
+**Rotational Development Associate | Procurement**  
 
 ## Education
 Texas Christian University  
