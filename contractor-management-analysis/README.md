@@ -11,3 +11,6 @@ No visibility into contractor spend, data lives in multiple sources and cannot b
 3\. Identify future opportunities for savings
 
 **Outcome**
+
+**Power BI Features** `Scheduled Refresh` `Value Parameters` `Field Parameters` `Bookmarks` `Drill Down` `Drill Through`  
+**DAX** `CALCULATE` `VAR/RETURN` `SELECTEDVALUE` `NOT IN` `KEEPFILTERS` `ALLSELECTED` `SUM` `RANKX` `DIVIDE`
