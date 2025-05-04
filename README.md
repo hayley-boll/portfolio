@@ -49,8 +49,8 @@ D1 Student Athlete
 ## Certifications 
 Power BI Data Analyst (PL-300) | [credential](https://learn.microsoft.com/api/credentials/share/en-us/HayleyBoll-3311/8658F20DEE1090EC?sharingId=930A40816E83E437)
 ## Achievements
-1. Received **President’s Award** presented by CEO for exemplary individual performance yielding significant project results. This was from a data analytics project that I executed.  
-2. Developed a Power BI dashboard to track contractor spend trends, identifying $4.6M in potential savings within one month.
+1\. Received **President’s Award** presented by CEO for exemplary individual performance yielding significant project results. This was from a data analytics project that I executed.  
+2\. Developed a Power BI dashboard to track contractor spend trends, identifying $4.6M in potential savings within one month.
 ## Contact
 LinkedIn: [hayleyboll](https://www.linkedin.com/in/hayleyboll/)  
 Email: hales.boll@gmail.com
