@@ -9,9 +9,6 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
   - [About](https://github.com/hayley-boll/Portfolio/blob/main/README.md#about)
   - [Portfolio Projects](https://github.com/hayley-boll/Portfolio/blob/main/README.md#portfolio-projects)
-      - [Contractor Management Power BI](https://github.com/hayley-boll/Portfolio/blob/main/README.md#contractor-management-power-bi)
-      - Cost Reporting
-      - Adoption Usage Report
   - [Work Experience](https://github.com/hayley-boll/Portfolio/blob/main/README.md#work-experience)
   - [Education](https://github.com/hayley-boll/Portfolio/blob/main/README.md#education)
   - [Certifications](https://github.com/hayley-boll/Portfolio/blob/main/README.md#certifications)
@@ -19,17 +16,16 @@ This is a repository to showcase skills, share projects and track my progress in
   - [Contact](https://github.com/hayley-boll/Portfolio/blob/main/README.md#contact) 
 
 ## Portfolio Projects
-These project are based on a real-world scenarios. All data has been anonymized or recreated to protect confidentiality.
-1. Contractor Management Power BI
-2. Cost Reporting Power BI
-**Goal:** Visualize contractor metrics to manage the three main levers of cost. 
-1. Headcount
-2. Overtime %
-3. Crew Mix / Class Ratio
+These projects are based on real-world scenarios. All data has been anonymized or recreated to protect confidentiality.
 
-### Cost Reporting Power BI
-### Adoption Usage Report
-### Labor Rate Workbench
+**Power BI**
+1. [Contractor Management](https://github.com/hayley-boll/Portfolio/blob/main/README.md#contact): Visualizes contractor metrics to manage labor cost across operations sites.
+2. Cost Reporting
+3. Labor Rate Workbench
+4. Adoption Usage Report
+
+**Excel**
+
 ## Work Experience
 ### Sr Data Analyst | Procurement Analytics
   **Responsibilities:** Manage Power BI semantic models, write SQL to extract data
