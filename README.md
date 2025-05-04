@@ -4,7 +4,7 @@ Hi, I'm Hayley! I am a results-driven analytics professional with a strong found
 
 ​I began my career in supply chain management, where I developed a strong understanding of operations, logistics, and process efficiency. Over time, I found myself drawn to the data behind the decisions—analyzing trends, identifying bottlenecks, and uncovering opportunities for improvement. That curiosity led me to transition into analytics, where I now focus on turning raw data into actionable insights that support strategic business outcomes.
 
-This is a repository to showcase skills, share projects and track my progress in data analytics / data science related topics.
+This is a repository to showcase my skills and share projects in data analytics / data science related topics.
 
 ## Table of Contents
   - [About](https://github.com/hayley-boll/Portfolio/blob/main/README.md#about)
