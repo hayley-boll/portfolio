@@ -27,18 +27,19 @@ These projects are based on real-world scenarios. All data has been anonymized o
 **Excel**
 
 ## Work Experience
-**Sr Data Analyst | Procurement Analytics**  
+**Sr Data Analyst - Procurement Analytics**  
 Maintain department's Power BI workspace and app, manage write SQL to extract data
 
-**Category** *(Data)* **Analyst | Strategic Sourcing**  
-**Rotational Development Associate | Renewables**  
-**Rotational Development Associate | Internal Audit**  
-**Rotational Development Associate | Procurement**  
+**Category** *(Data)* **Analyst - Strategic Sourcing**  
+**Rotational Development Associate - Renewables**  
+**Rotational Development Associate - Internal Audit**  
+**Rotational Development Associate - Procurement**  
 
 ## Education
-Texas Christian University  
+**Texas Christian University**  
 BBA in Supply Chain Management | Accounting Minor  
-Graduated Magna Cum Laude
+Graduated Magna Cum Laude  
+D1 Student Athlete
 
 ## Certifications 
 Power BI Data Analyst (PL-300) | [credential](https://learn.microsoft.com/api/credentials/share/en-us/HayleyBoll-3311/8658F20DEE1090EC?sharingId=930A40816E83E437)
