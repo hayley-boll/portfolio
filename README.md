@@ -47,6 +47,6 @@ Power BI Data Analyst (PL-300) | [credential](https://learn.microsoft.com/api/cr
 1. Received **President’s Award** presented by CEO for exemplary individual performance yielding significant project results. This was from a data analytics project that I executed.  
 2. Developed a Power BI dashboard to track contractor spend trends, identifying $4.6M in potential savings within one month.
 ## Contact
-LinkedIn: [hayleyboll](www.linkedin.com/in/hayleyboll)  
+LinkedIn: [hayleyboll](www.linkedin.com/in/hayleyboll/)  
 Email: hales.boll@gmail.com
 
