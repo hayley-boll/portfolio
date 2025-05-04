@@ -18,11 +18,11 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 These projects are based on real-world scenarios. All data has been anonymized or recreated to protect confidentiality.
 
-**Power BI**
-1. [`Contractor Management Analysis & Organization Tool`](https://github.com/hayley-boll/portfolio/tree/main/contractor-management-analysis#readme) visualizes contractor metrics to manage labor cost across operations.
-2. Cost Reporting
-3. Labor Rate Workbench
-4. Adoption Usage Report
+**Power BI**  
+1\. [`Contractor Management Analysis & Organization Tool`](https://github.com/hayley-boll/portfolio/tree/main/contractor-management-analysis#readme) visualizes contractor metrics to manage labor cost across operations.  
+2\. Cost Reporting  
+3\. Labor Rate Workbench  
+4\. Adoption Usage Report
 
 **Excel**
 
@@ -31,8 +31,13 @@ These projects are based on real-world scenarios. All data has been anonymized o
 Maintain department's Power BI workspace and app, manage write SQL to extract data
 
 **Category** *(Data)* **Analyst - Strategic Sourcing**  
+Develop and manage Power BI reports and dashboards, support special-data projects that contribute to organizational initiatives in procurement & operations, perform analysis on contractor spend data to identify cost-saving opportunities, present findings/insights to business stakeholders at all levels of the organization (peers to org leadership).  
+`Power BI` `SQL` `Power Query Editor` `Dataflows` `DAX` `Excel` `Requirements Gathering` `Analytics Strategy` `Process Optimization`   
+
 **Rotational Development Associate - Renewables**  
+
 **Rotational Development Associate - Internal Audit**  
+
 **Rotational Development Associate - Procurement**  
 
 ## Education
