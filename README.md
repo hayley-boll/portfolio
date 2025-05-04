@@ -19,7 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
 These projects are based on real-world scenarios. All data has been anonymized or recreated to protect confidentiality.
 
 **Power BI**
-1. [`Contractor Management`](https://github.com/hayley-boll/Portfolio/blob/main/README.md#contact): Visualizes contractor metrics to manage labor cost across operations sites.
+1. [`Contractor Management`](https://github.com/hayley-boll/portfolio/tree/main/contractor-management-analysis#readme): Visualizes contractor metrics to manage labor cost across operations sites.
 2. Cost Reporting
 3. Labor Rate Workbench
 4. Adoption Usage Report
