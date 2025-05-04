@@ -19,7 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
 These projects are based on real-world scenarios. All data has been anonymized or recreated to protect confidentiality.
 
 **Power BI**
-1. [`Contractor Management`](https://github.com/hayley-boll/portfolio/tree/main/contractor-management-analysis#readme): Visualizes contractor metrics to manage labor cost across operations sites.
+1. [`Contractor Management`](https://github.com/hayley-boll/portfolio/tree/main/contractor-management-analysis#readme) visualizes contractor metrics to manage labor cost across operations sites.
 2. Cost Reporting
 3. Labor Rate Workbench
 4. Adoption Usage Report
@@ -27,8 +27,8 @@ These projects are based on real-world scenarios. All data has been anonymized o
 **Excel**
 
 ## Work Experience
-### Sr Data Analyst | Procurement Analytics
-  **Responsibilities:** Manage Power BI semantic models, write SQL to extract data
+**Sr Data Analyst | Procurement Analytics**  
+Responsibilities: Maintain department's Power BI workspace and app, manage write SQL to extract data
 
 ### Category Analyst | Strategic Sourcing
 ### Rotational Development Associate | Renewables
@@ -43,6 +43,8 @@ Graduated Magna Cum Laude
 ## Certifications 
 Power BI Data Analyst (PL-300) | [credential](https://learn.microsoft.com/api/credentials/share/en-us/HayleyBoll-3311/8658F20DEE1090EC?sharingId=930A40816E83E437)
 ## Achievements
+1. Received **President’s Award** presented by CEO for exemplary individual performance yielding significant project results. This was from a data analytics project that I executed.  
+2. Developed a Power BI dashboard to track contractor spend trends, identifying $4.6M in potential savings within one month.
 ## Contact
 LinkedIn: [hayleyboll](www.linkedin.com/in/hayleyboll)  
 Email: hales.boll@gmail.com
