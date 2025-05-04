@@ -1,4 +1,4 @@
-[`Portfolio Home`](https://github.com/hayley-boll/portfolio/edit/main/README.md)  
+[`Portfolio Home`](https://github.com/hayley-boll/portfolio/blob/main/README.md)  
 
 # Contractor Management Analysis
 
