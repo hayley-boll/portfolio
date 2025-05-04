@@ -13,4 +13,5 @@ No visibility into contractor spend, data lives in multiple sources and cannot b
 **Outcome**
 
 **Power BI Features** `Scheduled Refresh` `Value Parameters` `Field Parameters` `Bookmarks` `Drill Down` `Drill Through`  
-**DAX** `CALCULATE` `VAR/RETURN` `SELECTEDVALUE` `NOT IN` `KEEPFILTERS` `ALLSELECTED` `SUM` `RANKX` `DIVIDE`
+**DAX** `CALCULATE` `VAR/RETURN` `SELECTEDVALUE` `NOT IN` `KEEPFILTERS` `ALLSELECTED` `SUM` `RANKX` `DIVIDE`  
+**SQL** `SELECT` `FROM` `WHERE` `CAST` `CASE` `LEFT OUTER JOIN`  
