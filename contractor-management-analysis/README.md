@@ -7,17 +7,17 @@ No visibility into contractor spend, data lives in multiple sources and cannot b
 
 # Goals & Outcomes
 
-**Goal #1:** Visibility to enable governance and management of labor strategies  
+**Goal 1️⃣:** Visibility to enable governance and management of labor strategies  
 **Outcome:** Reporting model that visualizes contractor strategy and performance against it through key metrics of `1` contract headcount, `2` overtime %, and `3` crew mix.  
 
-**Goal #2:** Drive accountability and ownership of labor management  
+**Goal 2️⃣:** Drive accountability and ownership of labor management  
 **Outcome:**
 
-**Goal #3:** Identify future opportunities for savings  
+**Goal 3️⃣:** Identify future opportunities for savings  
 **Outcome:**
 
 **Overall Outcome**  
-Reduction in contractor spend by 15% across organization
+⚡Reduction in contractor spend by 15% across organization
 
 **Power BI Features** `Scheduled Refresh` `Value Parameters` `Field Parameters` `Bookmarks` `Drill Down` `Drill Through`  
 **DAX** `CALCULATE` `VAR/RETURN` `SELECTEDVALUE` `NOT IN` `KEEPFILTERS` `ALLSELECTED` `SUM` `RANKX` `DIVIDE`  
