@@ -19,7 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
 These projects are based on real-world scenarios. All data has been anonymized or recreated to protect confidentiality.
 
 **Power BI**
-1. [Contractor Management](https://github.com/hayley-boll/Portfolio/blob/main/README.md#contact): Visualizes contractor metrics to manage labor cost across operations sites.
+1. [`Contractor Management`](https://github.com/hayley-boll/Portfolio/blob/main/README.md#contact): Visualizes contractor metrics to manage labor cost across operations sites.
 2. Cost Reporting
 3. Labor Rate Workbench
 4. Adoption Usage Report
@@ -36,11 +36,14 @@ These projects are based on real-world scenarios. All data has been anonymized o
 ### Rotational Development Associate | Procurement
 
 ## Education
+Texas Christian University  
+BBA in Supply Chain Management | Accounting Minor  
+Graduated Magna Cum Laude
+
 ## Certifications 
 Power BI Data Analyst (PL-300) | [credential](https://learn.microsoft.com/api/credentials/share/en-us/HayleyBoll-3311/8658F20DEE1090EC?sharingId=930A40816E83E437)
 ## Achievements
 ## Contact
-LinkedIn: [hayleyboll](www.linkedin.com/in/hayleyboll)
-
+LinkedIn: [hayleyboll](www.linkedin.com/in/hayleyboll)  
 Email: hales.boll@gmail.com
 
