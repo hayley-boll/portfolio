@@ -16,6 +16,9 @@ No visibility into contractor spend, data lives in multiple sources and cannot b
 **Goal #3:** Identify future opportunities for savings  
 **Outcome:**
 
+**Overall Outcome**  
+Reduction in contractor spend by 15% across organization
+
 **Power BI Features** `Scheduled Refresh` `Value Parameters` `Field Parameters` `Bookmarks` `Drill Down` `Drill Through`  
 **DAX** `CALCULATE` `VAR/RETURN` `SELECTEDVALUE` `NOT IN` `KEEPFILTERS` `ALLSELECTED` `SUM` `RANKX` `DIVIDE`  
 **SQL** `SELECT` `FROM` `WHERE` `CAST` `CASE` `LEFT OUTER JOIN`  
