@@ -32,11 +32,15 @@ Manage multiple analytics projects/initiatives for procurement & operations, set
 
 **Category** *(Data)* **Analyst - Strategic Sourcing**  
 Develop and manage Power BI reports and dashboards, support special-data projects that contribute to organizational initiatives in procurement & operations, perform analysis on contractor spend data to identify cost-saving opportunities, present findings/insights to business stakeholders at all levels of the organization (peers to org leadership).  
-`Power BI` `SQL` `Power Query Editor` `Dataflows` `DAX` `Excel` `Requirements Gathering` `Analytics Strategy` `Process Optimization`   
+`Power BI` `SQL` `Power Query Editor` `Dataflows` `DAX` `Excel` `SAP` `SAP ABAP` `Requirements Gathering` `Analytics Strategy` `Process Optimization`   
 
-**Rotational Development Associate - Renewables**  
+**Rotational Development Associate - Renewables** (Commercial)  
+Develop and analyze Power BI reports for sales margins and business unit expenses, develop and manage feedstock specification calculator using excel, identify work process opportunities and make improvements using excel macros and Power BI.  
+`Power BI` `Excel` `SAP` `Excel Macros` `Sales Analysis` `COGS Analysis` `Process Optimization`
 
-**Rotational Development Associate - Internal Audit**  
+**Rotational Development Associate - Internal Audit** (Business Process)  
+Develop Power BI dashboard for corporate expense audit initiative, validate metrics for organization's sustainability report, evaluate business & operational processes for adherence to SOX and industry standards, provide process improvement recommendations, and lead tax & wage audit initiative.  
+`Power BI` `Excel` `SAP` `Process Optimization` `Control Testing`
 
 **Rotational Development Associate - Procurement**  
 
