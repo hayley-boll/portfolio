@@ -1,7 +1,9 @@
 # Contractor Management Analysis
 
-## Business Issue 
+**Business Issue**  
 No visibility into contractor spend, data lives in multiple sources and cannot be analyzed holistically, no standard calculations across organization (sites/regions have different philisophies), business stakeholders have limited access to data, and low trust of data accuracy.
-## Goals
+
+**Goals**  
 1. 
-## Outcome
+
+**Outcome**
