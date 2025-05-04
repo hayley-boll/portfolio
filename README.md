@@ -28,7 +28,7 @@ These projects are based on real-world scenarios. All data has been anonymized o
 
 ## Work Experience
 **Sr Data Analyst - Procurement Analytics**  
-Maintain department's Power BI workspace and app, manage write SQL to extract data
+Manage multiple analytics projects/initiatives for procurement & operations, set standards for Procurement Analytics team, manage analytics intern, mentor junior analysts and review their work, perform special analysis for org leadership and present findings/insights, and maintain department's Power BI workspace and app.  
 
 **Category** *(Data)* **Analyst - Strategic Sourcing**  
 Develop and manage Power BI reports and dashboards, support special-data projects that contribute to organizational initiatives in procurement & operations, perform analysis on contractor spend data to identify cost-saving opportunities, present findings/insights to business stakeholders at all levels of the organization (peers to org leadership).  
