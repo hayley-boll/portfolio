@@ -19,7 +19,7 @@ This is a repository to showcase my skills and share projects in data analytics 
 These projects are based on real-world scenarios. All data has been anonymized or recreated to protect confidentiality.
 
 **Power BI**  
-1\. [`Contractor Management Analysis & Organization Tool`](https://github.com/hayley-boll/portfolio/tree/main/contractor-management-analysis#readme) visualizes contractor metrics to manage labor cost across operations.  
+1\. [`Project`](https://github.com/hayley-boll/portfolio/tree/main/contractor-management-analysis#readme) visualizes contractor metrics to manage labor cost across operations.  
 2\. Cost Reporting  
 3\. Labor Rate Workbench  
 4\. Adoption Usage Report
@@ -29,6 +29,7 @@ These projects are based on real-world scenarios. All data has been anonymized o
 ## Work Experience
 **Sr Data Analyst - Procurement Analytics**  
 Manage multiple analytics projects/initiatives for procurement & operations, set standards for Procurement Analytics team, manage analytics intern, mentor junior analysts and review their work, perform special analysis for org leadership and present findings/insights, and maintain department's Power BI workspace and app.  
+`Power BI` `SQL` `Python` `Power Query Editor` `Dataflows` `DAX` `Excel` `SAP` `SAP ABAP`
 
 **Category** *(Data)* **Analyst - Strategic Sourcing**  
 Develop and manage Power BI reports and dashboards, support special-data projects that contribute to organizational initiatives in procurement & operations, perform analysis on contractor spend data to identify cost-saving opportunities, present findings/insights to business stakeholders at all levels of the organization (peers to org leadership).  
@@ -51,9 +52,11 @@ Graduated Magna Cum Laude
 D1 Student Athlete
 
 ## Certifications 
-Power BI Data Analyst (PL-300) | [credential](https://learn.microsoft.com/api/credentials/share/en-us/HayleyBoll-3311/8658F20DEE1090EC?sharingId=930A40816E83E437)
+Power BI Data Analyst (PL-300) | [credential](https://learn.microsoft.com/api/credentials/share/en-us/HayleyBoll-3311/8658F20DEE1090EC?sharingId=930A40816E83E437)  
+Excel Associate
+PowerPoint
 ## Achievements
-1\. Received **President’s Award** presented by CEO for exemplary individual performance yielding significant project results. This was from a data analytics project that I executed.  
+1\. Received [President’s Award](https://www.linkedin.com/posts/hayleyboll_i-am-humbled-to-share-that-i-was-recently-activity-7208514129693720576-9C4T?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC4x6G0BdJPxqkyYh3dIYgB5eaHL20-bSuw) presented by CEO for exemplary individual performance yielding significant project results. This was from a data analytics project that I executed.  
 2\. Developed a Power BI dashboard to track contractor spend trends, identifying $4.6M in potential savings within one month.
 ## Contact
 LinkedIn: [hayleyboll](https://www.linkedin.com/in/hayleyboll/)  
