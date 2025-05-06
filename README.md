@@ -24,7 +24,7 @@ These projects are based on real-world scenarios. All data has been anonymized o
 3\.  
 4\.  
 
-🟩**Excel**
+🟩 **Excel**
 
 ✨ **Personal Project**  
 To show off my excel skills, here is a travel planner that I made for myself and friends. You can use it to help coordinate trips, keep track of itinerary, and manage expenses.
@@ -36,7 +36,7 @@ Manage multiple analytics projects/initiatives for procurement & operations, set
 
 **Category** *(Data)* **Analyst - Strategic Sourcing**  
 Develop and manage Power BI reports and dashboards, support special-data projects that contribute to organizational initiatives in procurement & operations, perform analysis on contractor spend data to identify cost-saving opportunities, present findings/insights to business stakeholders at all levels of the organization (peers to org leadership).  
-`Power BI` `SQL` `Power Query Editor` `Dataflows` `DAX` `Excel` `SAP` `SAP ABAP` `Requirements Gathering` `Analytics Strategy` `Process Optimization`   
+`Power BI` `SQL` `Power Query Editor` `Dataflows` `DAX` `Excel` `SAP` `SAP ABAP` `Requirements Gathering` `Lean Principles` `Process Optimization`   
 
 **Rotational Development Associate - Renewables** (Commercial)  
 Develop and analyze Power BI reports for sales margins and business unit expenses, develop and manage feedstock specification calculator using excel, identify work process opportunities and make improvements using excel macros and Power BI.  
