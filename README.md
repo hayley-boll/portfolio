@@ -18,13 +18,13 @@ This is a repository to showcase my skills and share projects in data analytics 
 ## Portfolio Projects
 These projects are based on real-world scenarios. All data has been anonymized or recreated to protect confidentiality.
 
-**Power BI**  
-1\. [`Project`](https://github.com/hayley-boll/portfolio/tree/main/contractor-management-analysis#readme) visualizes contractor metrics to manage labor cost across operations.  
-2\. Cost Reporting  
-3\. Labor Rate Workbench  
-4\. Adoption Usage Report
+📊 **Power BI**  
+1\. First Portfolio Project [`About`](https://github.com/hayley-boll/portfolio/tree/main/contractor-management-analysis#readme) [`PBIx File`](https://github.com/hayley-boll/portfolio/tree/main/contractor-management-analysis#readme) [`Findings`](https://github.com/hayley-boll/portfolio/tree/main/contractor-management-analysis#readme)  
+2\.  
+3\.  
+4\.  
 
-**Excel**
+🟩**Excel**
 
 ## Work Experience
 **Sr Data Analyst - Procurement Analytics**  
@@ -43,7 +43,7 @@ Develop and analyze Power BI reports for sales margins and business unit expense
 Develop Power BI dashboard for corporate expense audit initiative, validate metrics for organization's sustainability report, evaluate business & operational processes for adherence to SOX and industry standards, provide process improvement recommendations, and lead tax & wage audit initiative.  
 `Power BI` `Excel` `SAP` `Process Optimization` `Control Testing`
 
-**Rotational Development Associate - Procurement**  
+**Rotational Development Associate - Procurement**  (IT)
 
 ## Education
 **Texas Christian University**  
