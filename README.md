@@ -56,8 +56,8 @@ D1 Student Athlete
 
 ## Certifications 
 Power BI Data Analyst (PL-300) | [credential](https://learn.microsoft.com/api/credentials/share/en-us/HayleyBoll-3311/8658F20DEE1090EC?sharingId=930A40816E83E437)  
-Excel Associate
-PowerPoint
+Microsoft Office Excel 2016: Core Data Analysis, Manipulation, & Presentation  
+Microsoft Office PowerPoint 2016: Core Presentation Design & Delivery Skills
 ## Achievements
 1\. Received [President’s Award](https://www.linkedin.com/posts/hayleyboll_i-am-humbled-to-share-that-i-was-recently-activity-7208514129693720576-9C4T?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC4x6G0BdJPxqkyYh3dIYgB5eaHL20-bSuw) presented by CEO for exemplary individual performance yielding significant project results. This was from a data analytics project that I executed.  
 2\. Developed a Power BI dashboard to track contractor spend trends, identifying $4.6M in potential savings within one month.
