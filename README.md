@@ -32,7 +32,7 @@ To show off my excel skills, here is a travel planner that I made for myself and
 ## Work Experience
 **Sr Data Analyst - Procurement Analytics**  
 Manage multiple analytics projects/initiatives for procurement & operations, set standards for Procurement Analytics team, manage analytics intern, mentor junior analysts and review their work, perform special analysis for org leadership and present findings/insights, maintain department's Power BI workspace and app.  
-`Power BI` `SQL` `Python` `Power Query Editor` `Dataflows` `DAX` `Excel` `SAP` `SAP ABAP`
+`Power BI` `SQL` `Python` `Power Query Editor` `Dataflows` `DAX` `SVG` `Excel` `SAP` `SAP ABAP`
 
 **Category** *(Data)* **Analyst - Strategic Sourcing**  
 Develop and manage Power BI reports and dashboards, support special-data projects that contribute to organizational initiatives in procurement & operations, perform analysis on contractor spend data to identify cost-saving opportunities, present findings/insights to business stakeholders at all levels of the organization (peers to org leadership).  
