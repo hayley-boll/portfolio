@@ -1,6 +1,6 @@
 [`Portfolio Home`](https://github.com/hayley-boll/portfolio/blob/main/README.md) [`Other Projects`](https://github.com/hayley-boll/portfolio/blob/main/README.md#portfolio-projects) [`Contact Me!`](https://github.com/hayley-boll/portfolio/blob/main/README.md#contact)
 
-# Vendor & Category Cost Power BI for a Vineyard 
+# Power BI Cost Analysis Tool for a Vineyard 
 
 **Problem Statement**  
 Lack of visibility into vendor spend, category spend, & quantities of items ordered. Employees have a hard time going into the ERP system to find invoices and do not have skills to perform excel analysis.
