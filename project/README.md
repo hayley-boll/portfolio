@@ -1,33 +1,33 @@
 [`Portfolio Home`](https://github.com/hayley-boll/portfolio/blob/main/README.md) [`Other Projects`](https://github.com/hayley-boll/portfolio/blob/main/README.md#portfolio-projects) [`Contact Me!`](https://github.com/hayley-boll/portfolio/blob/main/README.md#contact)
 
-# Project
+# Vendor & Category Cost Power BI for a Vineyard 
 
 **Problem Statement**  
-No visibility into contractor spend, data lives in multiple sources and cannot be analyzed holistically, no standard calculations across organization (sites/regions have different philisophies), business stakeholders have limited access to data, low trust of data accuracy, and minimal sense of ownership from business stakeholders around contractor strategy.
+Lack of visibility into vendor spend, category spend, & quantities of items ordered. Employees have a hard time going into the ERP system to find invoices and do not have skills to perform excel analysis.
 
 ## Goals & Outcomes
 
-**Goal 1️⃣:** Visibility to enable governance and management of labor strategies  
-**Outcome:** Reporting model that visualizes contractor strategy and performance against it through key metrics of `1` contract headcount, `2` overtime %, and `3` crew mix.  
+**Goal 1️⃣:** Visibility to vendor spend and categories to enable strategic sourcing initiatives.  
+**Outcome:** Report that visualizes vendors and categories with the highest spend. 
 
-**Goal 2️⃣:** Drive accountability and ownership of labor management  
-**Outcome:**
+**Goal 2️⃣:** Give users the ability to find invoice information without using ERP.   
+**Outcome:** Report page with searchable table to allow users to efficiently find what they are looking for.   
 
-**Goal 3️⃣:** Identify future opportunities for savings  
-**Outcome:**  
+**Goal 3️⃣:** Ensure ease of use for all users.  
+**Outcome:** Intuitive directory that tells users where to go. Symmetrical and clean look for a better user experience. Icons that help direct users throughout the report. 
 
-Overall: Reduction in contractor spend by 15% across organization
 
 ## Power BI Report
 **Report Features**  
-⭐ What if cost analysis that utilizes `value parameters`  
-⭐ Headcount forecast  
-⭐ `Drill down` visuals & `drill through` pages  
-⭐ Page buttons that allow users to "choose their own analysis" through `bookmarks` for a simplified user experience  
-⭐ Informative guide `bookmarks`
+⭐ Customized theme [`PBIx Theme`](https://github.com/hayley-boll/portfolio/blob/main/project/hayley-theme.json)  
+⭐ Calendar table developed in Power Query Editor with date parameters  
+⭐ Drill down capability on visuals  
+⭐ `TopN` filtering, `Relative Date` filtering, dynamic titles using `SELECTED VALUE`, `SUMX`  
 
-**Power BI Features** `Scheduled Refresh` `Value Parameters` `Field Parameters` `Bookmarks` `Drill Down` `Drill Through`  
-**DAX** `CALCULATE` `VAR/RETURN` `SELECTEDVALUE` `NOT IN` `KEEPFILTERS` `ALLSELECTED` `SUM` `RANKX` `DIVIDE`  
-**SQL** `SELECT` `FROM` `WHERE` `CAST` `CASE` `LEFT OUTER JOIN`  
+**Elements** `Calendar Table` `DAX` `Report Directory` `Measure Folders`
 
-    
+<img src="https://github.com/hayley-boll/portfolio/blob/main/project/directory-page.png" alt="Directory Page" width="800">
+
+<img src="https://github.com/hayley-boll/portfolio/blob/main/project/invoice-lookup.png" alt="Invoice Lookup" width="800">
+
+<img src="https://github.com/hayley-boll/portfolio/blob/main/project/vendor-dashboard.png" alt="Vendor Dashboard" width="800">
