@@ -18,13 +18,15 @@ Lack of visibility into vendor spend, category spend, & quantities of items orde
 
 
 ## Power BI Report
+**Links**  
+💻 [`Custom Power BI Theme`](https://github.com/hayley-boll/portfolio/blob/main/project/hayley-theme.json)  
+🧬 [`SQL`](https://github.com/hayley-boll/portfolio/blob/main/project/getdata.sql) (if I was using Snowflake)  
+
 **Report Features**  
-⭐ Customized theme [`PBIx Theme`](https://github.com/hayley-boll/portfolio/blob/main/project/hayley-theme.json)  
 ⭐ Calendar table developed in Power Query Editor with date parameters  
 ⭐ Drill down capability on visuals  
 ⭐ `TopN` filtering, `Relative Date` filtering, dynamic titles using `SELECTED VALUE`, `SUMX`  
 ⭐ **Table Organization:** FactInvoices, DimVendors, CalendarTable, and ReportMeasures (only for storing explicit measures)   
-
 
 **Directory Page**  
 When it makes sense, I like to include a directory/home page on all of my projects. This page would include data sources, refresh timing & cadence, who is responsible/owns the report, and any links to documentation and training.   
