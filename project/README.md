@@ -34,6 +34,6 @@ When it makes sense, I like to include a directory/home page on all of my projec
 While this page is mostly a table, it is something that many stakeholders ask for so they can efficiently look things up instead of log into an ERP and look for invoices one by one, screen by screen. This report page includes a search bar that allows the user to quickly find what they are searching for. It also acts a slicer, any time you search it will filter the rest of the page for data that satisfies the search result.  
 <img src="https://github.com/hayley-boll/portfolio/blob/main/project/invoice-lookup.png" alt="Invoice Lookup" width="800">
 
-**Vendor & Category Dashboard**
-This report page visualizes 
+**Vendor & Category Dashboard**  
+This report page visualizes  
 <img src="https://github.com/hayley-boll/portfolio/blob/main/project/vendor-dashboard.png" alt="Vendor Dashboard" width="800">
