@@ -19,7 +19,7 @@ This is a repository to showcase my skills and share projects in data analytics 
 These projects are based on real-world scenarios. All data has been anonymized or recreated to protect confidentiality.
 
 📊 **Power BI**  
-1\. First Portfolio Project [`About`](https://github.com/hayley-boll/portfolio/tree/main/contractor-management-analysis#readme) [`PBIx File`](https://github.com/hayley-boll/portfolio/tree/main/contractor-management-analysis#readme) [`Findings`](https://github.com/hayley-boll/portfolio/tree/main/contractor-management-analysis#readme)  
+1\. Vendor & Category Analysis Power BI Tool [`Link`](https://github.com/hayley-boll/portfolio/tree/main/project#readme)  
 2\.  
 3\.  
 4\.  
