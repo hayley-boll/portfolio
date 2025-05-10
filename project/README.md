@@ -19,8 +19,8 @@ Lack of visibility into vendor spend, category spend, & quantities of items orde
 
 ## Power BI Report
 **Links**  
-💻 [`Custom Power BI Theme`](https://github.com/hayley-boll/portfolio/blob/main/project/hayley-theme.json)  
-🧬 [`SQL`](https://github.com/hayley-boll/portfolio/blob/main/project/getdata.sql) (if I was using Snowflake)  
+💻 [PBIx theme](https://github.com/hayley-boll/portfolio/blob/main/project/hayley-theme.json)  
+🧬 [SQL data](https://github.com/hayley-boll/portfolio/blob/main/project/getdata.sql) (if I was using Snowflake)  
 
 **Report Features**  
 ⭐ Calendar table developed in Power Query Editor with date parameters  
@@ -37,5 +37,5 @@ While this page is mostly a table, it is something that many stakeholders ask fo
 <img src="https://github.com/hayley-boll/portfolio/blob/main/project/invoice-lookup.png" alt="Invoice Lookup" width="800">
 
 **Vendor & Category Dashboard**  
-This report page visualizes  
+This report page visualizes invoice data across 5 different categories. 
 <img src="https://github.com/hayley-boll/portfolio/blob/main/project/vendor-dashboard.png" alt="Vendor Dashboard" width="800">
