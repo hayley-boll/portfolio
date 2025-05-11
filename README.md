@@ -19,10 +19,7 @@ This is a repository to showcase my skills and share projects in data analytics 
 These projects are based on real-world scenarios. All data has been anonymized or recreated to protect confidentiality.
 
 📊 **Power BI**  
-1\. Cost Analysis Power BI Tool [`learn more`](https://github.com/hayley-boll/portfolio/tree/main/project#readme)  
-2\.  
-3\.  
-4\.  
+1\. Cost Analysis Power BI Tool [`learn more`](https://github.com/hayley-boll/portfolio/tree/main/project#readme)    
 
 🟩 **Excel**
 
