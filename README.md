@@ -27,6 +27,8 @@ These projects are based on real-world scenarios. All data has been anonymized o
 To show off my excel skills, here is a travel planner that I made for myself and friends. You can use it to help coordinate trips, keep track of itinerary, and manage expenses.
 
 ## Work Experience
+**Refining Business Analyst (Temp) - Refining Operations**  
+
 **Sr Data Analyst - Procurement Analytics**  
 Manage multiple analytics projects/initiatives for procurement & operations, set standards for Procurement Analytics team, manage analytics intern, mentor junior analysts and review their work, perform special analysis for org leadership and present findings/insights, maintain department's Power BI workspace and app.  
 `Power BI` `SQL` `Python` `Power Query Editor` `Dataflows` `DAX` `SVG` `Excel` `SAP` `SAP ABAP`
