@@ -47,7 +47,9 @@ Develop and analyze Power BI reports for sales margins and business unit expense
 Develop Power BI dashboard for corporate expense audit initiative, validate metrics for organization's sustainability report, evaluate business & operational processes for adherence to SOX and industry standards, provide process improvement recommendations, and lead tax & wage audit initiative.  
 `Power BI` `Excel` `SAP` `Process Optimization` `Control Testing`
 
-**Rotational Development Associate - Procurement**  (IT)
+**Rotational Development Associate - Procurement**  (Services)  
+Managed a major RFP and change management initiative for Branded Marketing, conducting process mapping, vendor research, and project planning; analyzed vendor proposals, developed evaluation models and forms, and implemented process improvements.
+`Excel` `Operations Process Mapping` `RFPs` `Sourcing` `Contracts` `
 
 ## Education
 **Texas Christian University**  
@@ -64,5 +66,6 @@ Microsoft Office PowerPoint 2016: Core Presentation Design & Delivery Skills
 2\. Developed a Power BI dashboard to track contractor spend trends, identifying $4.6M in potential savings within one month.
 ## Contact
 LinkedIn: [hayleyboll](https://www.linkedin.com/in/hayleyboll/)  
-Email: hales.boll@gmail.com
+Email: hales.boll@gmail.com  
+HackerRank: [@hayley_boll](https://www.hackerrank.com/profile/hayley_boll)
 
