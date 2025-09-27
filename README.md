@@ -19,12 +19,12 @@ This is a repository to showcase my skills and share projects in data analytics 
 These projects are based on real-world scenarios. All data has been anonymized or recreated to protect confidentiality.
 
 📊 **Power BI**  
-1\. Cost Analysis Power BI Tool [`learn more`](https://github.com/hayley-boll/portfolio/tree/main/project#readme)    
+Cost Analysis Power BI Tool [`learn more`](https://github.com/hayley-boll/portfolio/tree/main/project#readme)    
 
 🟩 **Excel**
 
 ✨ **Personal Project**  
-To show off my excel skills, here is a travel planner that I made for myself and friends. You can use it to help coordinate trips, keep track of itinerary, and manage expenses.
+Travel Planner: To show off my excel skills, here is an excel travel planner that I made for myself and friends. You can use it to help coordinate trips, keep track of your itinerary, and manage expenses. [`learn more`](https://github.com/hayley-boll/portfolio/tree/main/travel-planner#readme)
 
 ## Work Experience
 **Business Analyst - Refining Operations** (Leadership Team)  
